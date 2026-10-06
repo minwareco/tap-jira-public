@@ -80,6 +80,10 @@ This tap:
    tap-jira -c config.json -p catalog-file.json
    ```
 
+## Public mirror
+
+This repository is mirrored to a public, read-only copy at https://github.com/minwareco/tap-jira-public; see the [Public mirror wiki page](https://github.com/minwareco/tap-jira/wiki/Public-mirror) for how to set up the remote and sync it.
+
 ---
 
 Copyright &copy; 2017 Stitch
